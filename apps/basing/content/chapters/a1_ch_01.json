@@ -1,13 +1,15 @@
 {
   "chapter_id": "a1_ch_01",
   "level_id": "a1",
-  "title": "Chapter 1",
-  "description": "Greetings and basic introductions",
+  "title": "Greetings & Introductions",
+  "description": "Learn basic greetings and how to introduce yourself.",
+  
   "lesson_ids": [
     "lesson1_hello",
-    "lesson2_introduce",
+    "lesson2_introduce_yourself",
     "lesson3_end_conversation",
     "lesson4_fluency"
   ],
+
   "image": "chapter/a1_ch_01.jpg"
 }
