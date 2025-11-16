@@ -1,0 +1,129 @@
+{
+  "lesson_id": "lesson1_hello",
+  "title": "Hello!",
+  "level_id": "a1",
+  "chapter_id": "a1_ch_01",
+
+  "steps": [
+    {
+      "type": "video_text",
+      "title": "Look, something new!",
+      "video": "videos/a1_1-1.mp4",
+      "text": "Hello!",
+      "translation": "Halo!",
+      "pronunciation": "həˈloʊ",
+      "notes": {
+        "eng": "A greeting used when meeting someone.",
+        "ind": "Salam yang digunakan saat bertemu seseorang."
+      },
+      "examples": [
+        {
+          "text": "Hello, how are you?",
+          "translation": "Halo, apa kabar?"
+        },
+        {
+          "text": "She said hello to everyone.",
+          "translation": "Dia menyapa semua orang."
+        }
+      ]
+    },
+
+    {
+      "type": "video_complete",
+      "title": "Complete the phrase!",
+      "video": "videos/a1_1-2.mp4",
+      "text": "_____!",
+      "correct_answer": "Hello",
+      "options": ["Hello", "Hi", "Hallo"],
+      "hints": ["It's a common greeting.", "It starts with 'H'."],
+      "explanation": {
+        "eng": "The 'Hello' word is the standard greeting used when meeting someone.",
+        "ind": "Kata 'Hello' karena itu adalah salam standar yang digunakan saat bertemu seseorang."
+      }
+    },
+
+    {
+      "type": "video_text",
+      "title": "Look, something new!",
+      "video": null,
+      "text": "Hi!",
+      "translation": "Hai!/menyapa",
+      "pronunciation": "haɪ",
+      "notes": {
+        "eng": "A casual greeting used among friends.",
+        "ind": "Salam santai yang digunakan di antara teman-teman. Kata 'Hallo' juga lebih formal daripada 'Hi'."
+      },
+      "examples": [
+        {
+          "text": "Hi! Long time no see.",
+          "translation": "Hai! Lama tidak bertemu."
+        },
+        {
+          "text": "He waved and said hi.",
+          "translation": "Dia melambaikan tangan dan menyapa."
+        }
+      ]
+    },
+
+    {
+      "type": "video_complete",
+      "title": "Complete the phrase!",
+      "video": null,
+      "audio": "audio/hello3.mp3",
+      "text": "__!",
+      "correct_answer": "Hi",
+      "options": ["Ha", "Hi", "Hey"],
+      "hints": ["It's a short greeting.", "It starts with 'H' and ends with 'i'."],
+      "explanation": {
+        "eng": "The correct answer is 'Hi' because it is a short and casual greeting.",
+        "ind": "Jawaban yang benar adalah 'Hi' karena itu adalah salam singkat dan santai."
+      }
+    },
+
+    {
+      "type": "video_text",
+      "title": "Look, something new!",
+      "video": null,
+      "text": "Nice to meet you.",
+      "translation": "Senang bertemu denganmu.",
+      "pronunciation": "naɪs tə miːt juː",
+      "notes": {
+        "eng": "A polite expression used when meeting someone for the first time.",
+        "ind": "Ungkapan sopan yang digunakan saat bertemu seseorang untuk pertama kalinya."
+      },
+      "examples": [
+        {
+          "text": "Nice to meet you! I've heard a lot about you.",
+          "translation": "Senang bertemu denganmu! Aku sudah banyak mendengar tentangmu."
+        },
+        {
+          "text": "It's nice to meet you in person.",
+          "translation": "Senang bertemu denganmu secara langsung."
+        }
+      ]
+    },
+
+    {
+      "type": "video_complete",
+      "title": "Complete the phrase!",
+      "video": null,
+      "text": "Nice to _____ you.",
+      "correct_answer": "meet",
+      "options": ["see", "meet", "know"],
+      "hints": ["It's used when meeting someone.", "It starts with 'm'."],
+      "explanation": {
+        "eng": "The phrase 'Nice to meet you' is used when encountering someone for the first time.",
+        "ind": "Frasa 'Nice to meet you' digunakan saat bertemu seseorang untuk pertama kalinya."
+      }
+    },
+
+    {
+      "type": "recap",
+      "phrases": [
+        {"text": "Hi!", "translation": "Hai!"},
+        {"text": "Nice to meet you.", "translation": "Senang bertemu denganmu."},
+        {"text": "Hello!", "translation": "Halo!"}
+      ]
+    }
+  ]
+}
