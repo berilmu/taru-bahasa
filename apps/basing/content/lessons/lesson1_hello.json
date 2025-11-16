@@ -37,8 +37,8 @@
       "options": ["Hello", "Hi", "Hallo"],
       "hints": ["It's a common greeting.", "It starts with 'H'."],
       "explanation": {
-        "eng": "The 'Hello' word is the standard greeting used when meeting someone.",
-        "ind": "Kata 'Hello' karena itu adalah salam standar yang digunakan saat bertemu seseorang."
+        "eng": "‘Hello’ is a standard greeting used when meeting someone.",
+        "ind": "‘Hello’ adalah salam standar yang digunakan saat bertemu seseorang."
       }
     },
 
@@ -47,11 +47,11 @@
       "title": "Look, something new!",
       "video": null,
       "text": "Hi!",
-      "translation": "Hai!/menyapa",
+      "translation": "Hai!",
       "pronunciation": "haɪ",
       "notes": {
         "eng": "A casual greeting used among friends.",
-        "ind": "Salam santai yang digunakan di antara teman-teman. Kata 'Hallo' juga lebih formal daripada 'Hi'."
+        "ind": "Salam santai yang digunakan di antara teman-teman."
       },
       "examples": [
         {
@@ -66,17 +66,16 @@
     },
 
     {
-      "type": "video_complete",
+      "type": "audio_complete",
       "title": "Complete the phrase!",
-      "video": null,
       "audio": "audio/hello3.mp3",
       "text": "__!",
       "correct_answer": "Hi",
       "options": ["Ha", "Hi", "Hey"],
       "hints": ["It's a short greeting.", "It starts with 'H' and ends with 'i'."],
       "explanation": {
-        "eng": "The correct answer is 'Hi' because it is a short and casual greeting.",
-        "ind": "Jawaban yang benar adalah 'Hi' karena itu adalah salam singkat dan santai."
+        "eng": "‘Hi’ is a short and casual greeting.",
+        "ind": "‘Hi’ adalah salam singkat dan santai."
       }
     },
 
@@ -89,12 +88,12 @@
       "pronunciation": "naɪs tə miːt juː",
       "notes": {
         "eng": "A polite expression used when meeting someone for the first time.",
-        "ind": "Ungkapan sopan yang digunakan saat bertemu seseorang untuk pertama kalinya."
+        "ind": "Ungkapan sopan yang digunakan saat bertemu pertama kali."
       },
       "examples": [
         {
           "text": "Nice to meet you! I've heard a lot about you.",
-          "translation": "Senang bertemu denganmu! Aku sudah banyak mendengar tentangmu."
+          "translation": "Senang bertemu denganmu! Aku banyak mendengar tentangmu."
         },
         {
           "text": "It's nice to meet you in person.",
@@ -110,19 +109,28 @@
       "text": "Nice to _____ you.",
       "correct_answer": "meet",
       "options": ["see", "meet", "know"],
-      "hints": ["It's used when meeting someone.", "It starts with 'm'."],
+      "hints": ["It's used when meeting someone.", "Starts with 'm'."],
       "explanation": {
-        "eng": "The phrase 'Nice to meet you' is used when encountering someone for the first time.",
-        "ind": "Frasa 'Nice to meet you' digunakan saat bertemu seseorang untuk pertama kalinya."
+        "eng": "‘Nice to meet you’ is used when meeting someone for the first time.",
+        "ind": "‘Nice to meet you’ digunakan saat bertemu pertama kali."
       }
     },
 
     {
       "type": "recap",
       "phrases": [
-        {"text": "Hi!", "translation": "Hai!"},
-        {"text": "Nice to meet you.", "translation": "Senang bertemu denganmu."},
-        {"text": "Hello!", "translation": "Halo!"}
+        {
+          "text": "Hello!",
+          "translation": "Halo!"
+        },
+        {
+          "text": "Hi!",
+          "translation": "Hai!"
+        },
+        {
+          "text": "Nice to meet you.",
+          "translation": "Senang bertemu denganmu."
+        }
       ]
     }
   ]
