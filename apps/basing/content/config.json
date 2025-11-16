@@ -1,1 +1,7 @@
-
+{
+  "app_id": "en_levels",
+  "language": "en",
+  "app_name": "English Levels",
+  "levels_file": "levels/levels.json",
+  "offline_mode": true
+}
