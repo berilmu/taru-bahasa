@@ -3,30 +3,30 @@
     "id": "a1",
     "title": "Beginner A1",
     "chapters": 37,
-    "icon": "assets/data/images/level/a1.svg"
+    "icon": "level/a1.svg"
   },
   {
     "id": "a2",
     "title": "Elementary A2",
     "chapters": 31,
-    "icon": "assets/data/images/level/a2.svg"
+    "icon": "level/a2.svg"
   },
   {
     "id": "b1",
     "title": "Intermediate B1",
     "chapters": 24,
-    "icon": "assets/data/images/level/b1.svg"
+    "icon": "level/b1.svg"
   },
   {
     "id": "B2",
     "title": "Upper Intermediate B2",
     "chapters": 24,
-    "icon": "assets/data/images/level/b2.svg"
+    "icon": "level/b2.svg"
   },
   {
     "id": "C1",
     "title": "Advanced C1",
     "chapters": 16,
-    "icon": "assets/data/images/level/c1.svg"
+    "icon": "level/c1.svg"
   }
 ]
