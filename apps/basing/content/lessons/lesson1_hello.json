@@ -8,7 +8,7 @@
     {
       "type": "video_text",
       "title": "Look, something new!",
-      "video": "videos/a1_1-1.mp4",
+      "video": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/public/videos_en/lessons/a1_1-1.mp4",
       "text": "Hello!",
       "translation": "Halo!",
       "pronunciation": "həˈloʊ",
@@ -31,8 +31,8 @@
     {
       "type": "video_complete",
       "title": "Complete the phrase!",
-      "video": "videos/a1_1-2.mp4",
-      "text": "Mr. Ericson _____!",
+      "video": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/public/videos_en/lessons/mr-erickson-hello.mp4",
+      "text": "Mr. Erickson _____!",
       "correct_answer": "Hello",
       "options": ["Hello", "Hi", "Hallo"],
       "hints": ["It's a common greeting.", "It starts with 'H'."],
