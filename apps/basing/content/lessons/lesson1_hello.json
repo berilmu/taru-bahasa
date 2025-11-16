@@ -32,7 +32,7 @@
       "type": "video_complete",
       "title": "Complete the phrase!",
       "video": "videos/a1_1-2.mp4",
-      "text": "_____!",
+      "text": "Mr. Ericson _____!",
       "correct_answer": "Hello",
       "options": ["Hello", "Hi", "Hallo"],
       "hints": ["It's a common greeting.", "It starts with 'H'."],
