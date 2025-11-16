@@ -3,30 +3,30 @@
     "id": "a1",
     "title": "Beginner A1",
     "chapters": 37,
-    "icon": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/sign/images_en/levels/a1.svg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV80MzE1NzE4MS0xZTk4LTRkNWMtOWQ3ZS0zYTNiNDEzODYwYTAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXNfZW4vbGV2ZWxzL2ExLnN2ZyIsImlhdCI6MTc2MzI4MjE1NywiZXhwIjoxNzk0ODE4MTU3fQ.dwGjoEBQnIVDyPtjGovodxyMERU04TTadLnVb3xn-Is"
+    "icon": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/public/images_en/levels/a1.svg"
   },
   {
     "id": "a2",
     "title": "Elementary A2",
     "chapters": 31,
-    "icon": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/sign/images_en/levels/a2.svg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV80MzE1NzE4MS0xZTk4LTRkNWMtOWQ3ZS0zYTNiNDEzODYwYTAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXNfZW4vbGV2ZWxzL2EyLnN2ZyIsImlhdCI6MTc2MzI4MjIzMiwiZXhwIjoxNzk0ODE4MjMyfQ.cM683LjuxZVcy-j9ZsTIBvNaSepbSQwxvXhsDatPHF4"
+    "icon": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/public/images_en/levels/a2.svg"
   },
   {
     "id": "b1",
     "title": "Intermediate B1",
     "chapters": 24,
-    "icon": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/sign/images_en/levels/b1.svg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV80MzE1NzE4MS0xZTk4LTRkNWMtOWQ3ZS0zYTNiNDEzODYwYTAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXNfZW4vbGV2ZWxzL2IxLnN2ZyIsImlhdCI6MTc2MzI4MjI2NiwiZXhwIjoxNzk0ODE4MjY2fQ.ThzSDMTrelkC_Fald3SEfJ5X5Q4T8mNpK-Ksvlm8Lbg"
+    "icon": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/public/images_en/levels/b1.svg"
   },
   {
     "id": "B2",
     "title": "Upper Intermediate B2",
     "chapters": 24,
-    "icon": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/sign/images_en/levels/b2.svg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV80MzE1NzE4MS0xZTk4LTRkNWMtOWQ3ZS0zYTNiNDEzODYwYTAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXNfZW4vbGV2ZWxzL2IyLnN2ZyIsImlhdCI6MTc2MzI4MjI5NCwiZXhwIjoxNzk0ODE4Mjk0fQ.YMJHQI3PW1TrF_LzHDRJyT5FpJ8AaHOWEbQSLUvqJ2I"
+    "icon": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/public/images_en/levels/b2.svg"
   },
   {
     "id": "C1",
     "title": "Advanced C1",
     "chapters": 16,
-    "icon": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/sign/images_en/levels/c1.svg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV80MzE1NzE4MS0xZTk4LTRkNWMtOWQ3ZS0zYTNiNDEzODYwYTAiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXNfZW4vbGV2ZWxzL2MxLnN2ZyIsImlhdCI6MTc2MzI4MjMxMCwiZXhwIjoxNzk0ODE4MzEwfQ.pSuzr_AorKBxtvd_bAL2RlBMCqdGtZfvWOXyy1nv8co"
+    "icon": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/public/images_en/levels/c1.svg"
   }
 ]
