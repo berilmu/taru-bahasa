@@ -1,7 +1,14 @@
 [
-  "a1_ch_01",
-  "a1_ch_02",
-  "a1_ch_03",
-  "a1_ch_04"
+  {
+    "chapter_id": "a1_ch_01",
+    "title": "Greetings & Introductions",
+    "description": "Learn common greetings and introducing yourself.",
+    "image": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/public/images_en/chapters/a1-ch1-01.jpg",
+    "lesson_ids": [
+      "lesson1_hello",
+      "lesson2_introduce_yourself",
+      "lesson3_end_conversation",
+      "lesson4_fluency"
+    ]
+  }
 ]
-
