@@ -7,10 +7,30 @@
     "version": 1,
     "last_updated": "2025-11-16"
   },
-  "chapters_a1": {
-    "version": 1,
-    "last_updated": "2025-11-16"
+  "chapter_lists": {
+    "a1": {
+      "version": 1,
+      "last_updated": "2025-11-17"
+    },
+    "b1": {
+      "version": 1,
+      "last_updated": "2025-11-17"
+    }
   },
+  "chapters": {
+    "a1_ch_01": {
+      "version": 1,
+      "last_updated": "2025-11-17"
+    },
+    "a1_ch_02": {
+      "version": 1,
+      "last_updated": "2025-11-17"
+    },
+    "b1_ch_01": {
+      "version": 1,
+      "last_updated": "2025-11-17"
+    }
+  }
   "lesson1": {
     "version": 1,
     "last_updated": "2025-11-16"
