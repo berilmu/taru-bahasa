@@ -5,10 +5,10 @@
     "description": "Learn common greetings and introducing yourself.",
     "image": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/public/images_en/chapters/a1-ch1-01.jpg",
     "lesson_ids": [
-      "lesson1_hello",
-      "lesson2_introduce_yourself",
-      "lesson3_end_conversation",
-      "lesson4_fluency"
+      "a1_ch1_lesson1_hello",
+      "a1_ch1_lesson2_introduce_yourself",
+      "a1_ch1_lesson3_end_conversation",
+      "a1_ch1_lesson4_fluency"
     ]
   }
 ]
