@@ -10,14 +10,14 @@
       "title": "Hello!",
       "level_id": "a1",
       "chapter_id": "a1_ch_01",
-      "image": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/public/images_en/chapters/a1-ch1-01.jpg",
+      "image": "https://pcwovsdftphsfcxncvfe.supabase.co/storage/v1/object/public/images_en/chapters/a1-ch1-01.jpg"
     },
     {
       "lesson_id": "a1_ch1_lesson1_hello",
       "title": "",
       "level_id": "a1",
       "chapter_id": "a1_ch_01",
-      "image": "",
+      "image": ""
     }
   ],
 
